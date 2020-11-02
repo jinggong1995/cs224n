@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+# OS
+.DS_Store
 
+# dataset
+**/datasets/
 # Distribution / packaging
 .Python
 build/
